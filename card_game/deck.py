@@ -1,6 +1,6 @@
 # create a stack of cards
 
-from card import Card
+from card_game.card import Card
 
 class Deck:
 
